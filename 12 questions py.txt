@@ -1,0 +1,91 @@
+#1
+# a = input("Enter a string: ")
+# print(a[::-1])
+
+#2
+# #while loop
+# sum upto N
+# total = 0
+# num = int(input("Enter a number N: "))
+# x = 1
+# while x<=num:
+#     total += x
+#     x = x +1
+# print(total)
+
+#3
+# a = [1,2,3,4,5,6,7,8,9]
+# b = []
+# for i in a:
+#     if i%2==0:
+#         b.append(i)
+# print(b)
+
+#4 swapping a variable
+
+# a = "aayush"
+# b =  "hello"
+# temp = ""
+# temp = a
+# a = b
+# b = temp
+# print(a)
+# print(b)
+
+
+#5
+# a = input("enter a string: ")
+# b = a[::2]
+# print(b)
+
+
+#6
+# a = input("enter a string: ")
+# b = a[::1]
+# print(b)
+
+
+#7
+# myList = "parameter"
+# num_char = len(myList)
+# print(num_char)
+
+#8
+# newList = [8,2,3,-1,7]
+# total = 1
+# for i in newList:
+#     total =total * i
+# print(total)
+
+#9
+# newList = [8,2,3,0,7]
+# total = 0
+# for i in newList:
+#     total += i
+# print(total)
+
+#10
+# num = int(input("Enter a number: "))
+# if num%3==0 and num%5==0:
+#     print("FIzzBuzz")
+# elif num%5==0:
+#     print("Buzz")
+# elif num%3==0 :
+#     print("Fizz")
+
+#11
+# newList = [1,2,3,4,5]
+# for i in newList:
+#     if i==5:
+#         print("5 is present in the list")
+
+#12
+# a = int(input("Enter first number: "))
+# b = int(input("enter second number:"))
+# c = int(input("Enter third number: "))
+# if a<b and a<c:
+#     print(f"The smallest number is {a}")
+# elif b<a and b<c:
+#     print(f"The smallest number is {b}")
+# else:
+#     print(f"The smallest number is {c}")

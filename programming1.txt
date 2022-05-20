@@ -1,0 +1,2 @@
+Q)explain break,continue ,pass statement with example.
+Q)using while loop aeiou condition 
